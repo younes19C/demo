@@ -1,0 +1,23 @@
+Étapes d'Installation
+Étape 1: Téléchargement du Fichier Exécutable
+Téléchargez le fichier en faisant pip install pyinstaller  dans le terminal
+
+Étape 2: Exécution de l'Installateur
+Téléchargez le fichier en faisant   pyinstaller --onefile votre_script.py  dans le terminal
+Noter bien vous devez  faire les instruction dans le meme repertoire que votre fichier
+Étape 3: Suivi des Instructions
+Suivez les instructions dans votre terminal pour configurer le programme sur votre système. 
+
+Étape 4: Finalisation de l'Installation
+Une fois l'installation terminée, le programme est prêt à être utilisé.
+
+Exécution du Programme
+Pour lancer le programme, suivez ces étapes simples :
+ il suffit de voir dans le dossier de votre projet , il est crée un fichier nommer "dist"
+   ensuite cliquez sur le "dist" et cliquez sur "nom_votre_fichier.exe"
+
+Si vous avez des questions ou rencontrez des problèmes lors de l'installation, 
+ veuillez nous contacter à [camarafamakan2@gmail.com].
+
+
+
